@@ -16,7 +16,7 @@ This project is an authentication system built using JWT(JSON Web Tokens), Passp
 1. Clone the repository:
 
 ``````
-git clone https://github.com/Davheed2/authentication-sytem.git
+git clone https://github.com/Davheed2/Authentication-Sytem.git
 ``````
 
 2. Install dependencies:
